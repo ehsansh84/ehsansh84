@@ -5,6 +5,7 @@ Hi, I’m Ehsan Shirzadi.<br>Here are some ideas to get you started:<br><br>🔭
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshirzadi/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shirzadi)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge)](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
 
 # 💻 Tech Stack:
 Development:  
@@ -17,13 +18,13 @@ Development:
 ![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Celery Badge](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RestAPI Badge](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge)
-![Microservices Badge](https://img.shields.io/badge/-Microservices-FF5722?style=for-the-badge)
+![Microservices Badge](https://img.shields.io/badge/-Microservices-FF5722?style=for-the-badge)  
 Databases:  
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 DevOps:  
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
