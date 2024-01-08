@@ -6,6 +6,8 @@ Hi, I’m Ehsan Shirzadi.<br>Here are some ideas to get you started:<br><br>🔭
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshirzadi/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shirzadi)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge)](https://stackoverflow.com/users/2889716/ehsan-shirzadi)
+![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 # 💻 Tech Stack:
 Development:  
