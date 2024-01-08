@@ -35,3 +35,10 @@ DevOps:
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
+
+![](https://github-readme-stats.vercel.app/api?username=ehsansh84&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ehsansh84&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansh84&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+![](https://komarev.com/ghpvc/?username=ehsansh84&color=dc143c)
